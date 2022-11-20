@@ -8,8 +8,12 @@ Team ID: PNT2022TMID35735
 Members:
 
 Krithikshan K (2019503528)
+
 Vijay Raghav S (2019503061)
+
 Nitish Kumar K M (2019503540)
+
 Rishikesh D (2019503575)
+
 
 ![image](https://user-images.githubusercontent.com/60626116/202911986-94c4edac-9eac-4bc6-ade2-e37c216dd9eb.png)
