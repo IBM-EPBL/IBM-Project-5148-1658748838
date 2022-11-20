@@ -2,9 +2,13 @@
 A Novel Method for Handwritten Digit Recognition System
 
 Domain : Artificial Intelligence
+
 Project: A Novel Method for Handwritten Digit Recognition System
+
 Batch: B8-2A4E
+
 Team ID: PNT2022TMID35735
+
 Members:
 
 Krithikshan K (2019503528)
