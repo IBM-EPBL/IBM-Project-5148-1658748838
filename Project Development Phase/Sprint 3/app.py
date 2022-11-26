@@ -4,7 +4,7 @@ from tensorflow import keras
 import cv2
 import base64
 
-# Initialize flask app
+# Initialize flask app #
 app = Flask(__name__)
 
 # Load prebuilt model
